@@ -1,0 +1,8 @@
+aiofiles  
+colorama  
+gmpy2      
+pip    
+setuptools 
+tqdm     
+wheel    
+numpy 

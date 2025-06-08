@@ -1,0 +1,5 @@
+D:\min project\jiami\en\src\sort.py:38: SyntaxWarning: invalid escape sequence '\m'
+  append_security_number(secure_num, 'D:\min project\jiami\pswd.txt')
+安全数已保存至 pswd.txt
+一万位索引已保存至 keys/key.txt
+生成文件大小: 0MB
